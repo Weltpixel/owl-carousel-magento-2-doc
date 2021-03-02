@@ -1,11 +1,11 @@
-<h1><a href="https://www.weltpixel.com/owl-carousel-and-slider.html">Magento 2 Responsive Banner Slider And OWL Carousel by Weltpixel.</a></h1>
+<h1><a href="https://www.weltpixel.com/owl-carousel-and-slider.html?utm_source=GitHub&utm_medium=Docmentation&utm_campaign=Git_Docs">Magento 2 Responsive Banner Slider And OWL Carousel by Weltpixel.</a></h1>
 <br/><br/>
 <table>
  <tr>
   <td width="30%" valign="center" style="
     border: none;
-"><br><a href="https://www.weltpixel.com/owl-carousel-and-slider.html"><img src="https://www.weltpixel.com/media/catalog/product/1/1/11_responsive_banner_slider_and_owl_carousel_new_2_1.png" alt="Responsive Banner Slider And OWL Carousel"></a>
-<br><a href="https://www.weltpixel.com"><img src="https://www.weltpixel.com/media/wysiwyg/weltpixel_1000x1000.png" alt="WeltPixel Logo"></a></td>
+"><br><a href="https://www.weltpixel.com/owl-carousel-and-slider.html?utm_source=GitHub&utm_medium=Docmentation&utm_campaign=Git_Docs"><img src="https://www.weltpixel.com/media/catalog/product/1/1/11_responsive_banner_slider_and_owl_carousel_new_2_1.png" alt="Responsive Banner Slider And OWL Carousel"></a>
+<br><a href="https://www.weltpixel.com?utm_source=GitHub&utm_medium=Docmentation&utm_campaign=Git_Docs"><img src="https://www.weltpixel.com/media/wysiwyg/weltpixel_1000x1000.png" alt="WeltPixel Logo"></a></td>
   <td style="border:none;"><br>
     <h1>ABOUT BANNER SLIDER FOR MAGENTO 2.</h1>
 <p>
@@ -86,7 +86,7 @@ Custom Content
                              Easy to use - insert slider using magento widgets, no coding needed, unlimited banners
                             </li>
                             <li>
-Right to Left Slide - change the slide direction of banners in sliders (now available in <a href="https://www.weltpixel.com/owl-carousel-and-slider.html">Pro version</a>)
+Right to Left Slide - change the slide direction of banners in sliders (now available in <a href="https://www.weltpixel.com/owl-carousel-and-slider.html?utm_source=GitHub&utm_medium=Docmentation&utm_campaign=Git_Docs">Pro version</a>)
                             </li>
                         </ul>
                         <p><img src="https://www.weltpixel.com/media/wysiwyg/product-owl/img_0.2.png"></p>
@@ -122,12 +122,12 @@ Creating and managing products carousels has never been easier. Using carousels 
                               Cross-sell Products
                             </li>
                             <li>
-                             Custom Category Products (show products from specific category, now available in <a href="https://www.weltpixel.com/owl-carousel-and-slider.html">Pro version</a>)
+                             Custom Category Products (show products from specific category, now available in <a href="https://www.weltpixel.com/owl-carousel-and-slider.html?utm_source=GitHub&utm_medium=Docmentation&utm_campaign=Git_Docs">Pro version</a>)
                             </li>
                             <li>
-Condition Based Product Carousel (configure Product Carousel based on Custom conditions, available in <a href="https://www.weltpixel.com/owl-carousel-and-slider.html">Pro version</a> of the extension)
+Condition Based Product Carousel (configure Product Carousel based on Custom conditions, available in <a href="https://www.weltpixel.com/owl-carousel-and-slider.html?utm_source=GitHub&utm_medium=Docmentation&utm_campaign=Git_Docs">Pro version</a> of the extension)
                             </li>
-Product Reviews Carousel (display product reviews in a carousel) - requires the <a href="https://www.weltpixel.com/magento-2-product-reviews-and-rating-extension.html">Magento 2 CMS Product Reviews Widget extension.</a>
+Product Reviews Carousel (display product reviews in a carousel) - requires the <a href="https://www.weltpixel.com/magento-2-product-reviews-and-rating-extension.html?utm_source=GitHub&utm_medium=Docmentation&utm_campaign=Git_Docs">Magento 2 CMS Product Reviews Widget extension.</a>
                             </li>
                         </ul>
 
@@ -187,12 +187,12 @@ Very lightweight.
 Hover Image - show a second product image on mouse hover (now available in Pro version)
                             </li>
                             <li>
-Right to Left Slide - change the slide direction of items in Product Carousels (now available in <a href="https://www.weltpixel.com/owl-carousel-and-slider.html">Pro version</a> )
+Right to Left Slide - change the slide direction of items in Product Carousels (now available in <a href="https://www.weltpixel.com/owl-carousel-and-slider.html?utm_source=GitHub&utm_medium=Docmentation&utm_campaign=Git_Docs">Pro version</a> )
                             </li>
                         </ul>
                         <p><img src="https://www.weltpixel.com/media/wysiwyg/product-owl/img_0.4.png"></p>
-                                                <h3>Download Here: <a href="https://www.weltpixel.com/owl-carousel-and-slider.html">Responsive Banner Slider And OWL Carousel by WeltPixel.</a></h3>
-                        <h3>Included in the <a href="https://www.weltpixel.com/magento-2-theme-pearl">Pearl Theme for Magento 2.</a></h3>
+                                                <h3>Download Here: <a href="https://www.weltpixel.com/owl-carousel-and-slider.html?utm_source=GitHub&utm_medium=Docmentation&utm_campaign=Git_Docs">Responsive Banner Slider And OWL Carousel by WeltPixel.</a></h3>
+                        <h3>Included in the <a href="https://www.weltpixel.com/magento-2-theme-pearl?utm_source=GitHub&utm_medium=Docmentation&utm_campaign=Git_Docs">Pearl Theme for Magento 2.</a></h3>
    </div></td>
  </tr>
 </table>
@@ -351,8 +351,8 @@ You will not loose existing banners, sliders and carousels, the upgrade will onl
                         </ul> 
                         <h1>Magento Marketplace Installation.</h1>
                             <ul>
-                                <li>If the extension was purchased from the Magento Marketplace, follow the instructions in this article: <a href="https://support.weltpixel.com/hc/en-us/articles/115004328687-How-to-install-extension-if-purchased-from-Magento-Marketplace" target="_blank">How to install extension if purchased from the Magento Marketplace</a></li>
-                                <li>If asked for a license, follow the steps presented in section 7 of this article: <a href="https://support.weltpixel.com/hc/en-us/articles/360006697594-License-key-for-local-staging-development-environment-Multi-store-licensing-" target="_blank">License key for local / staging / development environment. Multi-store licensing. </a></li></ul>
+                                <li>If the extension was purchased from the Magento Marketplace, follow the instructions in this article: <a href="https://support.weltpixel.com/hc/en-us/articles/115004328687-How-to-install-extension-if-purchased-from-Magento-Marketplace?utm_source=GitHub&utm_medium=Docmentation&utm_campaign=Git_Docs" target="_blank">How to install extension if purchased from the Magento Marketplace</a></li>
+                                <li>If asked for a license, follow the steps presented in section 7 of this article: <a href="https://support.weltpixel.com/hc/en-us/articles/360006697594-License-key-for-local-staging-development-environment-Multi-store-licensing-?utm_source=GitHub&utm_medium=Docmentation&utm_campaign=Git_Docs" target="_blank">License key for local / staging / development environment. Multi-store licensing. </a></li></ul>
                                 <tr>
 <td>
 <div class="col-md-6">
@@ -1033,4 +1033,4 @@ For <strong>Custom Category Carousel</strong> to be displayed, make sure you ent
   </td>
  </tr>
 </table>
- <h3>Download it now! <a href="https://www.weltpixel.com/owl-carousel-and-slider.html">Magento 2 Responsive Banner Slider And OWL Carousel by WeltPixel.</a></h3>
+ <h3>Download it now! <a href="https://www.weltpixel.com/owl-carousel-and-slider.html?utm_source=GitHub&utm_medium=Docmentation&utm_campaign=Git_Docs">Magento 2 Responsive Banner Slider And OWL Carousel by WeltPixel.</a></h3>
